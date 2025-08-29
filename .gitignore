@@ -1,4 +1,9 @@
+node_modules
+npm-debug.log
+Dockerfile
+docker-compose.yml
+.pnpm-lock.yaml
+.yarn
+.yarnrc*
+.puppeteer-profile
 .env
-node_modules/
-.puppeteer-profile/
-package-lock.json
